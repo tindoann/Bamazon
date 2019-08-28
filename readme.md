@@ -21,13 +21,17 @@ console.table
 
 ## Walk-Through
 
-In customer database, the user will have to 'node bamazonCustomer' to log into the program. The user will be greeted with a table display of the current id, product name, department name, price, and quantity. 
+In customer database, the user will have to log in by 'node bamazonCustomer'. The user will be greeted with a table display of the current id, product name, department name, price, and quantity. 
 
 ![](images/img1.png)
 
 From here, the user will have to input the item id and quantity. After the user has placed the order, a confirmation of their order will be displayed. 
 
 ![](images/img3.png)
+
+If the user requests a a greater quantity than is availabe, the user is prompted with an insuffient quantity response. 
+
+![](images/img9.png)
 
 For the manager to login into the terminal, the user will have to enter 'node bamazaonManager'. From the main menu, the terminal will then display four options: 1) View Product for sale 2) View low inventory 3) Add to inventory 4) Exit 
 
