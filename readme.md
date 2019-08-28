@@ -1,5 +1,6 @@
 # Bamazon
 
+Old Repo, accidently erased it with 'git reset --hard head' > 'git push origin -f'
 ![](images/img10.png)
 
 ## Overview
