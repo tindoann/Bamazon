@@ -32,7 +32,7 @@ From here, the user will have to input the item id and quantity. After the user 
 
 ![](images/img3.png)
 
-If the user requests a a greater quantity than is availabe, the user is prompted with an insuffient quantity response. 
+If the user requests a greater quantity than is availabe, the user is prompted with an insuffient quantity response. 
 
 ![](images/img9.png)
 
